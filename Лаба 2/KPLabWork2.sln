@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31611.283
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab2", "Lab2\Lab2.csproj", "{D31C646E-BC71-4929-9880-9BEC2AC660F5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KPLabWork2", "KPLabWork2\KPLabWork2.csproj", "{D31C646E-BC71-4929-9880-9BEC2AC660F5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab2X.Tests", "Lab2X.Tests\Lab2X.Tests\Lab2X.Tests.csproj", "{20693674-BDFD-4281-B8F8-B721DBCE8DA1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KPLabWork2X.Tests", "KPLabWork2X.Tests\KPLabWork2X.Tests\KPLabWork2X.Tests.csproj", "{20693674-BDFD-4281-B8F8-B721DBCE8DA1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
